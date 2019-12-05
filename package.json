@@ -70,7 +70,7 @@
   "dependencies": {
     "archy": "^1.0.0",
     "caching-transform": "^3.0.2",
-    "convert-source-map": "^1.6.0",
+    "convert-source-map": "^1.7.0",
     "cp-file": "^6.2.0",
     "find-cache-dir": "^2.1.0",
     "find-up": "^3.0.0",
